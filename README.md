@@ -4,6 +4,7 @@
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="#"><img align="left" alt="Typescript" title="Typescript" width="21px" src="https://en.wikipedia.org/wiki/TypeScript#/media/File:Typescript_logo_2020.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://expressjs.com/"><img align="left" alt="ExpressJS" title="ExpressJS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></a>
   <a href="https://www.postgresql.org/"><img align="left" alt="Postgresql" title="Postgresql" width="21px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"></a>
